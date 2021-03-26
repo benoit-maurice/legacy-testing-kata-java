@@ -11,4 +11,5 @@ public class AutomaticQuoteBot {
 			auctionTask.PriceAndPublish(blog, mode);
 		}
 	}
+	Plop
 }
