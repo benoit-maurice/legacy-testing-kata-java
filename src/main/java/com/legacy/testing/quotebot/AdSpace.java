@@ -1,4 +1,6 @@
-package com.arolla.legacy.testing.quotebot;
+package com.legacy.testing.quotebot;
+
+import com.legacy.testing.thirdparty.TechBlogs;
 
 import java.util.Collection;
 import java.util.HashMap;

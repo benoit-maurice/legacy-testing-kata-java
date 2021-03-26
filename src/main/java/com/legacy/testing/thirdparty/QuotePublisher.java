@@ -1,4 +1,4 @@
-package com.arolla.legacy.testing.thirdparty.quotebot;
+package com.legacy.testing.thirdparty;
 
 import javax.swing.JOptionPane;
 

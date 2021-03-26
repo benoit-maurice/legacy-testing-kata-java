@@ -1,4 +1,4 @@
-package com.arolla.legacy.testing.quotebot;
+package com.legacy.testing.quotebot;
 
 public class Application {
 	public static void main(String[] args) {

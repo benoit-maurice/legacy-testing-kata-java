@@ -1,4 +1,4 @@
-package com.arolla.legacy.testing.quotebot;
+package com.legacy.testing.thirdparty;
 
 import java.util.Arrays;
 import java.util.Collection;

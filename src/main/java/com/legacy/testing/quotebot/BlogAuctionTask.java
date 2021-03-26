@@ -1,10 +1,10 @@
-package com.arolla.legacy.testing.quotebot;
+package com.legacy.testing.quotebot;
 
 import java.util.Calendar;
 import java.util.Date;
 
-import com.arolla.legacy.testing.thirdparty.quotebot.MarketStudyVendor;
-import com.arolla.legacy.testing.thirdparty.quotebot.QuotePublisher;
+import com.legacy.testing.thirdparty.MarketStudyVendor;
+import com.legacy.testing.thirdparty.QuotePublisher;
 
 public class BlogAuctionTask {
 
